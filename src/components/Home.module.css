@@ -1,0 +1,13 @@
+.homePage {
+    display: flex;
+  }
+  
+  .feed {
+    flex: 3;
+  }
+  
+  .sidebar {
+    flex: 1;
+    margin-left: 2rem;
+  }
+  
